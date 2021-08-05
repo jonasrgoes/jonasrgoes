@@ -8,9 +8,10 @@ class JonasRGoes:
     def __init__(self):
         self.username = 'jonasrgoes'
         self.name = 'Jonas Roberto de Goes Filho'
-        self.web = 'https://www.linkedin.com/in/jonasrgoes'
+        self.linkedin = 'https://www.linkedin.com/in/jonasrgoes'
         self.twitter = '@jonasrgoes'
         self.position = 'Full Stack Software Engineer'
+        self.start_date = 1995
         self.code = {
             'frontend': ['Flutter Mobile', 'Flutter Web', 'UI/UX Design', 'Dart', 'Swift', 'Kotlin'],
             'backend': ['AWS', 'Microservices', 'Python'],
