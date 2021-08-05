@@ -1,4 +1,4 @@
-### Hi there, I'm Jonas 👋
+### Hi there, I'm Jonas, a serverless developer 👋
 
 <img src="https://raw.githubusercontent.com/jonasrgoes/jonasrgoes/master/serverless.jpeg" width="100%" />
 
