@@ -43,10 +43,14 @@ if __name__ == '__main__':
 
 ## Latest Posts
 
-
 - [Using AWS CloudFormation Stacks](https://jonasrgoes.medium.com/using-aws-cloudformation-stacks-28d2fded458d)
-
 - [AWS PowerTools Layer — How to setup in SAM Template](https://jonasrgoes.medium.com/aws-powertools-layer-how-to-setup-in-sam-e9e74ae32b67)
+
+## Oldest posts in Brazilian Portuguese
+
+- [July 10, 2004 - Compilando um kernel linux série 2.6](https://www.dicas-l.com.br/arquivo/compilando_um_kernel_linux_serie_2.6.php)
+- [December 26, 2004 - Criando um Mirror Debian](http://www.dicas-l.com.br/arquivo/criando_um_mirror_debian.php#.YQvyG1NKg1I)
+- [December 24, 2006 - Permissões e Tipos de Arquivos no Linux](http://www.dicas-l.com.br/arquivo/permissoes_e_tipos_de_arquivos_no_linux.php#.YQvyZVNKg1I)
 
 <!--
 **jonasrgoes/jonasrgoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
