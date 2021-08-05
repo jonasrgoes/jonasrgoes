@@ -1,5 +1,7 @@
 ### Hi there, I'm Jonas 👋
 
+<img src="https://raw.githubusercontent.com/jonasrgoes/jonasrgoes/master/serverless.jpeg" width="100%" />
+
 ```python
 class JonasRGoes:
 
