@@ -1,7 +1,9 @@
 ### Hi there, I'm Jonas, a Python Serverless & AWS Developer 👋
 
+```
 full_name = lambda first, last: f'Full name: {first.title()} {last.title()}'
 full_name('Jonas', 'R G Filho')
+```
 
 
 <img src="https://raw.githubusercontent.com/jonasrgoes/jonasrgoes/master/serverless.jpeg" width="100%" />
