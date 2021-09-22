@@ -3,6 +3,7 @@
 ```
 full_name = lambda first, last: f'Full name: {first.title()} {last.title()}'
 full_name('Jonas', 'R G Filho')
+'Full name: Jonas R G Filho'
 ```
 
 
