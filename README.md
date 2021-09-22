@@ -23,12 +23,12 @@ class JonasRGoes:
         self.code = {
             'frontend': ['Flutter Mobile', 'Flutter Web', 'UI/UX Design', 'Dart', 'Swift', 'Kotlin'],
             'backend': ['AWS', 'Microservices', 'Python'],
-            'database': ['NoSQL', 'Immutable Databases'],
+            'database': ['NoSQL', 'QLDB', 'Immutable Databases'],
             'devops': ['AWS', 'AWS CloudFormation', 'AWS Pipeline'],
             'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Visual Studio Code', 'Android Studio', 'XCode'],
             'misc': ['Firebase', 'TDD', 'SCRUM', 'Webscrapping', 'GNU/Linux'],
         }
-        self.hardware = ['Macbook M1', 'AWS'],
+        self.hardware = ['Macbook M1', 'iPhone 12 Pro Max', 'AirPort Time Capsule 5th Gen'],
         self.architecture = ['Serverless', 'Microservices', 'Cloud Computing'],
         self.hobbies = ['Cryptocurrencies', 'Astronomy']
 
